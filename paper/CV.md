@@ -1,11 +1,7 @@
 
 # Deep Learning Papers Translation(CV)
-以下来自：[](https://github.com/SnailTyan/deep-learning-papers-translation)
-<p>
-<iframe src="https://ghbtns.com/github-btn.html?user=SnailTyan&repo=deep-learning-papers-translation&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-<iframe src="https://ghbtns.com/github-btn.html?user=SnailTyan&repo=deep-learning-papers-translation&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+以下来自：[@SnailTyan](https://github.com/SnailTyan),[deep-learning-papers-translation](https://github.com/SnailTyan/deep-learning-papers-translation)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=SnailTyan&repo=deep-learning-papers-translation&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 ## Image Classification
 * AlexNet  
@@ -99,3 +95,9 @@
 [中文版](http://noahsnail.com/2018/06/06/2018-06-06-MobileNetV2-%20Inverted%20Residuals%20and%20Linear%20Bottlenecks%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
 [中英文对照](http://noahsnail.com/2018/06/06/2018-06-06-MobileNetV2-%20Inverted%20Residuals%20and%20Linear%20Bottlenecks%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
 
+
+
+
+**如有侵权，联系删除**
+
+**E-Mail:chenquan@osai.club**
