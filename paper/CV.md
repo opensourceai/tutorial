@@ -97,8 +97,10 @@
 
 ## Semantic segmentation
 
-[Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://zhangbin0917.github.io/2018/06/03/Encoder-Decoder-with-Atrous-Separable-Convolution-for-Semantic-Image-Segmentation/)
+* [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://zhangbin0917.github.io/2018/06/03/Encoder-Decoder-with-Atrous-Separable-Convolution-for-Semantic-Image-Segmentation/)
+
 ---
+
 
 **如有侵权，联系删除**
 
