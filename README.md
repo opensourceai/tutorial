@@ -4,4 +4,4 @@
 
 **E-Mail:chenquan@osai.club**
 
-- [论文资源](https://github.com/ChenQuan/tutorial/blob/master/paper/README.md)
+- [论文资源](paper/README.md)
