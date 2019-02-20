@@ -28,9 +28,11 @@
 - [TensorFlow](https://tensorflow.google.cn)
 > Google开发的深度学习框架
 
+![](https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png)
 - [Keras](https://keras.io/)
 - [Keras中文文档](https://keras.io/zh)
 > Keras是高级神经网络 API， 可以使用TensorFlow, CNTK, 或者 Theano作为其后端。现在TensorFlow整合了Keras，通过tf.keras即可使用。在即将发布的TensorFlow2.0中，tf.keras将于TensorFlow深度整合，推荐使用。
+
 ![](img/pytorch-logo-dark.png)
 - [PyTorch](https://pytorch.org)
 - [PyTorch中文文档](https://pytorch.apachecn.org/#/)
