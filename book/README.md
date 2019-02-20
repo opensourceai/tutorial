@@ -57,11 +57,11 @@
 
   - [OpenCV-Python-Toturial-中文版.pdf](OpenCV-Python-Toturial-中文版.pdf)
 
-  - [OpenCV官方教程中文版（For Python）.pdf](OpenCV官方教程中文版（For Python）.pdf)
+  - [OpenCV官方教程中文版ForPython.pdf](OpenCV官方教程中文版ForPython.pdf)
 
   - [OpenCv官方教程中文版.pdf](OpenCv官方教程中文版.pdf)
 
-  - [OpenCV实例精解 普拉蒂克·乔希.pdf](OpenCV实例精解 普拉蒂克·乔希.pdf)
+  - [OpenCV实例精解-普拉蒂克-乔希.pdf](OpenCV实例精解-普拉蒂克-乔希.pdf)
 
     
 
