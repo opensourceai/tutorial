@@ -53,3 +53,17 @@
 - [LightGBM中文文档](http://lightgbm.apachecn.org/#/)
 > 微软编写，也是基于提升树，不过这个速度更快，内存占用率低。与XGBoost起鼓相当，甚至已经超过XGBoost了，也是Kaggle比赛的一大利器。
 
+- OpenCV
+
+  - [OpenCV-Python-Toturial-中文版.pdf](OpenCV-Python-Toturial-中文版.pdf)
+
+  - [OpenCV官方教程中文版（For Python）.pdf](OpenCV官方教程中文版（For Python）.pdf)
+
+  - [OpenCv官方教程中文版.pdf](OpenCv官方教程中文版.pdf)
+
+  - [OpenCV实例精解 普拉蒂克·乔希.pdf](OpenCV实例精解 普拉蒂克·乔希.pdf)
+
+    
+
+    
+
