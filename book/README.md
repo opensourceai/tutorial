@@ -13,7 +13,7 @@
 - [deeplearning深度学习笔记v5.1.pdf](deeplearning深度学习笔记v5.1.pdf)
 > 这本书是一位博士协同其他AI爱好者编写的吴恩达教授《DeepLearning》课程的学习笔记，如果看过这门课程强烈推荐此书，不看这门课程，也可以推荐观看。
 
-- [深度学习(Deep Learning) .pdf](深度学习(Deep Learning).pdf)
+- [深度学习(Deep Learning) .pdf](深度学习-Deep Learning.pdf)
 > 此书为几个业界大佬所写，属于进阶型书籍（我自认为），建议大家后期观看。
 
 - [机器学习训练秘籍（完整中文版）.pdf](机器学习训练秘籍（完整中文版）.pdf)
