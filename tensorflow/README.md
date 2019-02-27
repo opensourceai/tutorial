@@ -13,3 +13,6 @@
 - K-means聚类 [kmeans.py](example/basic_model/kmeans.py)
 - 线性回归 [linear_regression.py](example/basic_model/linear_regression.py)
 - 逻辑回归 [logistic_regression.py](example/basic_model/logistic_regression.py)
+- 最近邻算法 [nearest_neighbor.py](example/basic_model/nearest_neighbor.py)
+- 随机森林 [random_forest.py](example/basic_model/random_forest.py)
+- 词向量 [word2vec.py](example/basic_model/word2vec.py)
