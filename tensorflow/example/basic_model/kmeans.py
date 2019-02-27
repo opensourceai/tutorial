@@ -5,10 +5,11 @@
 # Description : K-means算法
 from __future__ import print_function
 
+import os
+
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.factorization import KMeans
-import os
 
 # 忽略所有GPU，TensorFlow GBDT 不支持 GPU
 os.environ["CUDA_VISIBLE_DEVICES"] = ""

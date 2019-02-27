@@ -5,9 +5,9 @@
 # Description : 线性回归 Y = WX + b
 from __future__ import print_function
 
-import tensorflow as tf
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+import tensorflow as tf
 
 __author__ = 'Chen Quan'
 
