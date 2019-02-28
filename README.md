@@ -4,8 +4,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)
 [![GitHub forks](https://img.shields.io/github/forks/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/tutorial/fork)
 
-![GitHub issues](https://img.shields.io/github/issues/opensourceai/tutorial.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/opensourceai/tutorial.svg)
+[![GitHub issues](https://img.shields.io/github/issues/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/pulls)
 
 **本项目中部分来自互联网，如有侵权，联系删除**
 
