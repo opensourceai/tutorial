@@ -11,9 +11,7 @@
 ## TensorFlow
 ### 基础操作
 - Hello World [hello_world.py](tensorflow/example/basic_op/hello_world.py) 入门代码打印Hello World
-
 - 基本运算操作 [basic_op.py](tensorflow/example/basic_op/basic_op.py) 
-
 - eager 动态图模式 [basic_op.py](tensorflow/example/basic_op/eager_api.py) 动态图与python数据类型结合
 
 ### 基础算法
