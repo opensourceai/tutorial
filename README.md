@@ -1,5 +1,10 @@
 # Tutorial from OpenSourceAI
 
+|![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=plastic)|![GitHub forks](https://img.shields.io/github/forks/opensourceai/tutorial.svg?style=social)|![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)
+|----|----|----|
+
+
+
 **本项目中部分来自互联网，如有侵权，联系删除**
 
 > **E-Mail:** chenquan@osai.club onexming@osai.club
