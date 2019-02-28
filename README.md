@@ -1,6 +1,8 @@
 # Tutorial from OpenSourceAI
 
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=plastic)](https://github.com/OpenSourceAI/tutorial/blob/master/LICENSE)![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)[![GitHub forks](https://img.shields.io/github/forks/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/tutorial/fork)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=plastic)](https://github.com/OpenSourceAI/tutorial/blob/master/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)
+[![GitHub forks](https://img.shields.io/github/forks/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/tutorial/fork)
 
 
 
