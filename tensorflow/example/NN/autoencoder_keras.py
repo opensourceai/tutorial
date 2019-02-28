@@ -27,9 +27,6 @@ num_hidden_1 = 256  # 第一层神经单元个数
 num_hidden_2 = 128  # 第一层神经单元个数
 num_input = 784  #
 
-# 定义占位符
-X = tf.placeholder("float", [None, num_input])
-
 
 # 建立编码网络
 def encoder(x):
