@@ -8,6 +8,14 @@
 - [书籍](book/README.md)
 - [TensorFlow](tensorflow/README.md)
 
+## 论文资源
+
+### 论文翻译
+[计算机视觉（CV）](CV.md)
+### 论文介绍
+[新奇论文](novel.md)
+
+
 ## TensorFlow
 ### 基础操作
 - Hello World [hello_world.py](tensorflow/example/basic_op/hello_world.py) 入门代码打印Hello World
@@ -25,5 +33,9 @@
 - 随机森林 [random_forest.py](tensorflow/example/basic_model/random_forest.py)
 - 词向量 [word2vec.py](tensorflow/example/basic_model/word2vec.py)
 
+
 ### 神经网络
 - 自解码网络 [autoencoder.py](tensorflow/example/NN/autoencoder.py)
+- 自解码网络-keras [autoencoder_keras.py](tensorflow/example/NN/autoencoder_keras.py)
+- BP神经网络 [neural_network.py](tensorflow/example/NN/neural_network.py)
+- BP神经网络-keras [neural_network_keras.py](tensorflow/example/NN/neural_network_keras.py)
