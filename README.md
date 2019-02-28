@@ -1,7 +1,7 @@
 # Tutorial from OpenSourceAI
 
 [![GitHub](https://img.shields.io/github/license/OpenSourceAI/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/blob/master/LICENSE)
-![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/algorithm/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/tutorial/fork)
 
 [![GitHub issues](https://img.shields.io/github/issues/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/issues)
