@@ -3,7 +3,7 @@
 **本项目中部分来自互联网，如有侵权，联系删除**
 
 > **E-Mail:** chenquan@osai.club onexming@osai.club
-
+>> 欢迎各位大佬来fork，[MarkDown参考](https://github.com/ChenQuan/README)
 - [论文资源](paper/README.md)
 - [书籍](book/README.md)
 - [TensorFlow](tensorflow/README.md)
