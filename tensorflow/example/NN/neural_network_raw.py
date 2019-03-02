@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
-# File Name：neural_network
+# File Name：neural_network_raw
 # Author : Chen Quan
 # Date：2019/2/28
-# Description :
+# Description : 神经网络TensorFlow原生代码实现
 __author__ = 'Chen Quan'
 
 import tensorflow as tf

@@ -2,7 +2,7 @@
 # File Name：neural_network
 # Author : Chen Quan
 # Date：2019/2/28
-# Description :
+# Description : 神经网络TensorFlow keras代码实现
 __author__ = 'Chen Quan'
 
 import tensorflow as tf

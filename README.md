@@ -35,5 +35,5 @@
 ### 神经网络
 - 自解码网络 [autoencoder.py](tensorflow/example/NN/autoencoder.py)
 - 自解码网络-keras [autoencoder_keras.py](tensorflow/example/NN/autoencoder_keras.py)
-- BP神经网络 [neural_network.py](tensorflow/example/NN/neural_network.py)
+- BP神经网络 [neural_network.py](tensorflow/example/NN/neural_network_raw.py)
 - BP神经网络-keras [neural_network_keras.py](tensorflow/example/NN/neural_network_keras.py)
