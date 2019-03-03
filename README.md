@@ -1,14 +1,16 @@
 # Tutorial from OpenSourceAI
 
-[![](https://img.shields.io/badge/launch-Jupyter-red.svg)](https://mybinder.org/v2/gh/OpenSourceAI/tutorial/master)
-[![GitHub](https://img.shields.io/github/license/OpenSourceAI/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/blob/master/LICENSE)
-
 [![GitHub stars](https://img.shields.io/github/stars/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/tutorial/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/opensourceai/tutorial.svg?style=social)](https://github.com/OpenSourceAI/tutorial/fork)
 
-
 [![GitHub issues](https://img.shields.io/github/issues/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/pulls)
+
+[![](https://img.shields.io/badge/launch-Jupyter-red.svg)](https://mybinder.org/v2/gh/OpenSourceAI/tutorial/master)
+[![GitHub](https://img.shields.io/github/license/OpenSourceAI/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/blob/master/LICENSE)
+
+
+
 
 
 
