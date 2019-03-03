@@ -7,6 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/opensourceai/tutorial.svg)](https://github.com/OpenSourceAI/tutorial/pulls)
 
+[![](https://img.shields.io/badge/launch-Jupyter-red.svg)](https://mybinder.org/v2/gh/OpenSourceAI/tutorial/master)
 **本项目中部分来自互联网，如有侵权，联系删除**
 
 > **E-Mail:** chenquan@osai.club onexming@osai.club
