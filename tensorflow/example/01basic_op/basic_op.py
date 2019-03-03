@@ -1,11 +1,12 @@
 # -*- coding: UTF-8 -*-
-# File Name：basic_op
+# File Name：01basic_op
 # Author : Chen Quan
 # Date：2019/2/26
 # Description : 基础的运算操作
 from __future__ import print_function
-import tensorflow as tf
+
 import numpy as np
+import tensorflow as tf
 
 tf.set_random_seed(2019)
 __author__ = 'Chen Quan'

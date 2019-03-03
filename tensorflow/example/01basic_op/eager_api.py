@@ -4,9 +4,9 @@
 # Date：2019/2/27
 # Description : enable_eager_execution ，动态图模式
 from __future__ import absolute_import, division, print_function
-import tensorflow as tf
-import tensorflow.contrib.eager as tfe
+
 import numpy as np
+import tensorflow as tf
 
 __author__ = 'Chen Quan'
 
