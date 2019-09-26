@@ -13,9 +13,6 @@
 
 
 
-
-
-
 **本项目中部分来自互联网，如有侵权，联系删除**
 
 > **E-Mail:** chenquan@osai.club onexming@osai.club
@@ -53,3 +50,17 @@
 ## PyTorch
 ### 基础操作
 - 基础运算操作 [basic_op.py](pytorch/example/01basic_op/basic_op.py)
+
+
+
+## OpenSourceAI
+
+欢迎有兴趣的朋友加入我们，一个喜欢开源、热爱AI的团队。
+
+OpenSourceAI Org：
+https://github.com/opensourceai
+
+QQ Group:  [584399282](https://shang.qq.com/wpa/qunwpa?idkey=46b645557bb6e6f118e0f786daacf61bd353b68a7b1ccba71b4e85b6d1b75b31)
+
+![QQ Group:584399282](https://github.com/opensourceai/community/blob/master/img/qq-group-share.png)
+
